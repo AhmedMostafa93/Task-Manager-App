@@ -1,16 +1,20 @@
-# task_manager_app
 
-A new Flutter project.
 
-## Getting Started
+# Project Name
 
-This project is a starting point for a Flutter application.
+task_manager_app
 
-A few resources to get you started if this is your first Flutter project:
+Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Add tasks .
+Mark tasks as completed.
+Delete tasks you no longer need.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Dependencies
+  cupertino_icons: ^1.0.6
+  dio: ^5.4.3+1
+  flutter_secure_storage: ^9.2.1
+  flutter_bloc: ^8.1.2
+  animate_do: ^3.3.4
+  equatable: ^2.0.5
